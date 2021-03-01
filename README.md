@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=lif3ng)
+![](https://komarev.com/ghpvc/?username=lif3ng&label=other+text)
+
+
+
 <!--
 **lif3ng/lif3ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
