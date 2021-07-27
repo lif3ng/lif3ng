@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=lif3ng&label=)
-![](https://komarev.com/ghpvc/?username=lif3ng&label=+1=)
+![](https://komarev.com/ghpvc/?username=lif3ng&label=an+equation)
+![](https://komarev.com/ghpvc/?username=lif3ng&label=%2B1%3D)
 
 
 
