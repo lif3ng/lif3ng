@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=lif3ng&label=an+equation)
-![](https://komarev.com/ghpvc/?username=lif3ng&label=%2B1%3D)
+<!-- ![](https://komarev.com/ghpvc/?username=lif3ng&label=an+equation)
+![](https://komarev.com/ghpvc/?username=lif3ng&label=%2B1%3D) -->
 
+## 一些练习 by book / tutorial 
 
+### By [JavaScript Everywhere](https://www.jseverywhere.io/)
+- repo [web](https://github.com/lif3ng/js-everywhere-web/commits/master)
+- repo [api](https://github.com/lif3ng/js-everywhere-api/commits/master) 
 
 <!--
 **lif3ng/lif3ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
