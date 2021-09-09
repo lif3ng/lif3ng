@@ -2,6 +2,9 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=lif3ng&label=an+equation)
 ![](https://komarev.com/ghpvc/?username=lif3ng&label=%2B1%3D) -->
+## 笔记
+- [HTML](https://lif3ng.github.io/html-notes/)
+- [CSS](https://lif3ng.github.io/css-notes/)
 
 ## 一些练习 by book / tutorial 
 
